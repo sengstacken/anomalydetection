@@ -1,4 +1,4 @@
-# anomalydetecton
+# Anomaly Detecton
 
 This is a series of python scripts and notebooks that cover anomaly detection.  
 
